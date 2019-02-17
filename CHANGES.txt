@@ -1,0 +1,3 @@
+Changes to original website:
+	local fonts file
+	html, css, js contents
