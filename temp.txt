@@ -1,0 +1,29 @@
+音频：
+
+audacity
+dark audacity
+foobar
+
+视频：
+
+openshot
+avidemux
+
+图片处理：
+digicam
+photoflow
+rawtherapee
+imagine
+
+gadgets：
+gifcam
+
+for fun：
+sweethome3d
+meshroom
+
+OS：
+rufus
+
+fileediting：
+briss
